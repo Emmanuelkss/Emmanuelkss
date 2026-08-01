@@ -8,27 +8,6 @@
 [![Email](https://img.shields.io/badge/EMAIL-EMMANUELKOU06%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanuelkou06@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-EMMANUELKSS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emmanuelkss)
 
----
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Emmanuelkss&theme=algolia&no-frame=true&no-bg=true&margin-w=6)
-
----
-
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Emmanuelkss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kouassi Dadie Emmanuel GitHub stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuelkss&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-    </td>
-  </tr>
-</table>
-
 
 ---
 

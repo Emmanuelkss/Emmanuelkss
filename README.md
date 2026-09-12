@@ -1,4 +1,4 @@
-# Hi, I'm Kouassi Dadie Emmanuel
+# Hi, I'm Emmanuel Kouassi
 
 ---
 
